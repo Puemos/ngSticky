@@ -1,2 +1,2 @@
-// require('./lib/sticky');
+require('./lib/sticky');
 module.exports = 'sticky';
