@@ -1,5 +1,12 @@
 Angular Sticky
 ==============
+A fork on ngSticky !
+
+### Chnages
+
+  * Placeholder is cloned with opacity of 0
+
+
 
 A simple, pure javascript (No jQuery required!) AngularJS directive to make elements stick when scrolling down.
 
