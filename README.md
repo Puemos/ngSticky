@@ -2,7 +2,7 @@ Angular Sticky
 ==============
 A fork on ngSticky !
 
-### Chnages
+### Changes
 
   * Placeholder is cloned with opacity of 0
 
