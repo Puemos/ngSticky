@@ -8,7 +8,7 @@
   ],
   "description": "A simple, pure javascript (No jQuery required!) AngularJS directive to make elements stick when scrolling down.",
   "main": "index.js",
-  "dependencies": {
+  "peerDependencies": {
     "angular": "^1.2.0"
   },
   "repository": {
@@ -33,10 +33,6 @@
     "test",
     "tests"
   ],
-  "engines": {
-    "node": ">=0.10",
-    "npm": ">=1.1.59"
-  },
   "scripts": {
     "examples": "http-server",
     "build": "uglifyjs --compress -o dist/sticky.min.js -- lib/sticky.js"
