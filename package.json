@@ -44,5 +44,6 @@
   "devDependencies": {
     "http-server": "^0.9.0",
     "uglify-js": "^2.6.2"
-  }
+  },
+  "bugs": "https://github.com/Puemos/ngSticky/issues"
 }
