@@ -17,12 +17,12 @@ A simple, pure javascript (No jQuery required!) AngularJS directive to make elem
   * Clean: No external CSS or jQuery required, and it only adds the classes you specify.
 
 
-### Bower
+### Npm
 
 Install with bower:
 
 ```bash
-bower install ngSticky
+npm install ngsticky-puemos
 ```
 
 
